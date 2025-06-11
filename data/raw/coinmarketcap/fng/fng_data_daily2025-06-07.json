@@ -1,0 +1,14 @@
+{
+    "data": {
+        "value": 46,
+        "update_time": "2025-06-06T23:53:10.025Z",
+        "value_classification": "Neutral"
+    },
+    "status": {
+        "timestamp": "2025-06-07T00:00:18.161Z",
+        "error_code": "0",
+        "error_message": "",
+        "elapsed": 3,
+        "credit_count": 1
+    }
+}

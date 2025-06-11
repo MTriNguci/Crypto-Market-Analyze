@@ -1,0 +1,181 @@
+{
+    "items": "2",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Best Bitcoin & Crypto Casinos for 2025, Rated by Sharp Gamblers",
+            "url": "https://www.benzinga.com/pressreleases/25/05/g45507140/best-bitcoin-crypto-casinos-for-2025-rated-by-sharp-gamblers",
+            "time_published": "20250519T211707",
+            "authors": [
+                "Globe Newswire"
+            ],
+            "summary": "Dallas, May 19, 2025 ( GLOBE NEWSWIRE ) -- Bitcoin casinos have emerged as the new gold standard for players seeking speed, privacy, and security. With lightning-fast payouts, blockchain-level transparency, and enhanced anonymity, these platforms are redefining what it means to gamble online.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.999855"
+                }
+            ],
+            "overall_sentiment_score": 0.381814,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.006393",
+                    "ticker_sentiment_score": "0.018921",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.006393",
+                    "ticker_sentiment_score": "0.018921",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.006393",
+                    "ticker_sentiment_score": "0.113261",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLSQF",
+                    "relevance_score": "0.006393",
+                    "ticker_sentiment_score": "0.220328",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.012786",
+                    "ticker_sentiment_score": "0.202933",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.357885",
+                    "ticker_sentiment_score": "0.34086",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.070235",
+                    "ticker_sentiment_score": "0.134251",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.025569",
+                    "ticker_sentiment_score": "0.343509",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.038345",
+                    "ticker_sentiment_score": "0.150044",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:LTC",
+                    "relevance_score": "0.038345",
+                    "ticker_sentiment_score": "0.061686",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:VPN",
+                    "relevance_score": "0.019178",
+                    "ticker_sentiment_score": "0.045297",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Who's got the charm, cash and code to be a crypto hub?",
+            "url": "https://cointelegraph.com/news/cash-code-crypto-hub-uk-us-singapore",
+            "time_published": "20250519T150112",
+            "authors": [
+                "Yohan Yun"
+            ],
+            "summary": "Kazakhstan, the Maldives and Pakistan have recently outlined ambitions to position themselves as crypto hubs and build out their digital economies.Historically, these countries haven't been top of mind for global crypto firms - though Kazakhstan did have a brief moment in the spotlight as a ...",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-05/0196e8b7-8b31-72bd-b9dc-f9e019e5ab61",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.166909,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.026013",
+                    "ticker_sentiment_score": "0.125278",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.026013",
+                    "ticker_sentiment_score": "-0.101878",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.103778",
+                    "ticker_sentiment_score": "0.056746",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.103778",
+                    "ticker_sentiment_score": "0.143144",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:UNI",
+                    "relevance_score": "0.026013",
+                    "ticker_sentiment_score": "0.125278",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}

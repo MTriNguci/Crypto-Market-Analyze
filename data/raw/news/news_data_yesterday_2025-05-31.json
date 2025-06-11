@@ -1,0 +1,60 @@
+{
+    "items": "1",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "An Extremely Profitable Business Plans to Go Public. What Investors Need to Know.",
+            "url": "https://www.fool.com/investing/2025/05/31/an-extremely-profitable-business-plans-to-go-publi/",
+            "time_published": "20250531T094500",
+            "authors": [
+                "Jon Quast"
+            ],
+            "summary": "On May 27, Circle Internet Group updated its filings to become a publicly traded company. It's possible that investors haven't heard of Circle. But cryptocurrency enthusiasts are likely quite familiar with Circle's stablecoin USD Coin ( CRYPTO: USDC ) , the second-largest stablecoin by market ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F819795%2Ftracking-investments-affluent-family-planning.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.999996"
+                }
+            ],
+            "overall_sentiment_score": 0.314987,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.315493",
+                    "ticker_sentiment_score": "0.332586",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.107736",
+                    "ticker_sentiment_score": "0.09738",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.16099",
+                    "ticker_sentiment_score": "0.086906",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}

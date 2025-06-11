@@ -1,0 +1,2108 @@
+{
+    "code": 0,
+    "msg": null,
+    "traceId": "",
+    "data": [
+        {
+            "date": "2025-06-05",
+            "totalNetInflow": -278435958.87,
+            "totalValueTraded": 4472029295.79,
+            "totalNetAssets": 122977906593.12712,
+            "cumNetInflow": 44288126361.452995
+        },
+        {
+            "date": "2025-06-04",
+            "totalNetInflow": 86921550.95,
+            "totalValueTraded": 2381591727.3,
+            "totalNetAssets": 126665427567.15816,
+            "cumNetInflow": 44566562320.323
+        },
+        {
+            "date": "2025-06-03",
+            "totalNetInflow": 378043221.385,
+            "totalValueTraded": 2866083905.7,
+            "totalNetAssets": 128129714005.27805,
+            "cumNetInflow": 44479640769.373
+        },
+        {
+            "date": "2025-06-02",
+            "totalNetInflow": -267520349.93,
+            "totalValueTraded": 2333241052.0,
+            "totalNetAssets": 125472400684.26201,
+            "cumNetInflow": 44101597547.988
+        },
+        {
+            "date": "2025-05-30",
+            "totalNetInflow": -616218414.2,
+            "totalValueTraded": 3390344529.51,
+            "totalNetAssets": 126151609650.02028,
+            "cumNetInflow": 44369117897.918
+        },
+        {
+            "date": "2025-05-29",
+            "totalNetInflow": -358653461.615,
+            "totalValueTraded": 5393609574.81,
+            "totalNetAssets": 128126617785.726,
+            "cumNetInflow": 44985336312.118
+        },
+        {
+            "date": "2025-05-28",
+            "totalNetInflow": 432618888.28,
+            "totalValueTraded": 3501338224.33,
+            "totalNetAssets": 130290489165.2126,
+            "cumNetInflow": 45343989773.733
+        },
+        {
+            "date": "2025-05-27",
+            "totalNetInflow": 384852936.96,
+            "totalValueTraded": 3894634912.93,
+            "totalNetAssets": 132894503404.93211,
+            "cumNetInflow": 44911370885.452995
+        },
+        {
+            "date": "2025-05-23",
+            "totalNetInflow": 211737424.345,
+            "totalValueTraded": 4763750780.23,
+            "totalNetAssets": 131391891333.26283,
+            "cumNetInflow": 44526517948.493
+        },
+        {
+            "date": "2025-05-22",
+            "totalNetInflow": 934742459.72,
+            "totalValueTraded": 5385630240.8,
+            "totalNetAssets": 134295403454.3598,
+            "cumNetInflow": 44314780524.147995
+        },
+        {
+            "date": "2025-05-21",
+            "totalNetInflow": 608993678.8,
+            "totalValueTraded": 7641677936.34,
+            "totalNetAssets": 129015028335.8834,
+            "cumNetInflow": 43380038064.428
+        },
+        {
+            "date": "2025-05-20",
+            "totalNetInflow": 329022102.06,
+            "totalValueTraded": 3587558311.38,
+            "totalNetAssets": 126795333250.27704,
+            "cumNetInflow": 42771044385.628
+        },
+        {
+            "date": "2025-05-19",
+            "totalNetInflow": 667438126.07,
+            "totalValueTraded": 3625102116.77,
+            "totalNetAssets": 124973229522.01012,
+            "cumNetInflow": 42442022283.568
+        },
+        {
+            "date": "2025-05-16",
+            "totalNetInflow": 260266134.59,
+            "totalValueTraded": 2697220073.8,
+            "totalNetAssets": 122665639298.53523,
+            "cumNetInflow": 41774584157.498
+        },
+        {
+            "date": "2025-05-15",
+            "totalNetInflow": 114958483.23,
+            "totalValueTraded": 2577034342.87,
+            "totalNetAssets": 121469162844.60068,
+            "cumNetInflow": 41514318022.908
+        },
+        {
+            "date": "2025-05-14",
+            "totalNetInflow": 319558528.8,
+            "totalValueTraded": 2740518531.09,
+            "totalNetAssets": 121844538030.37532,
+            "cumNetInflow": 41399359539.678
+        },
+        {
+            "date": "2025-05-13",
+            "totalNetInflow": -96142497.0,
+            "totalValueTraded": 2947411049.9,
+            "totalNetAssets": 122920414537.81525,
+            "cumNetInflow": 41079801010.878
+        },
+        {
+            "date": "2025-05-12",
+            "totalNetInflow": 5096682.809999996,
+            "totalValueTraded": 3414970334.1,
+            "totalNetAssets": 119673446153.40028,
+            "cumNetInflow": 41175943507.878
+        },
+        {
+            "date": "2025-05-09",
+            "totalNetInflow": 334584629.5,
+            "totalValueTraded": 2665036183.99,
+            "totalNetAssets": 121233114292.33636,
+            "cumNetInflow": 41170846825.068
+        },
+        {
+            "date": "2025-05-08",
+            "totalNetInflow": 117461399.29,
+            "totalValueTraded": 3872004572.28,
+            "totalNetAssets": 118660307913.6036,
+            "cumNetInflow": 40836262195.568
+        },
+        {
+            "date": "2025-05-07",
+            "totalNetInflow": 142307651.555,
+            "totalValueTraded": 2099243670.11,
+            "totalNetAssets": 112711514975.82916,
+            "cumNetInflow": 40718800796.278
+        },
+        {
+            "date": "2025-05-06",
+            "totalNetInflow": -85635334.25,
+            "totalValueTraded": 1463061236.89,
+            "totalNetAssets": 111151963134.41805,
+            "cumNetInflow": 40576493144.723
+        },
+        {
+            "date": "2025-05-05",
+            "totalNetInflow": 425452985.31,
+            "totalValueTraded": 1833299294.2,
+            "totalNetAssets": 110684499816.54497,
+            "cumNetInflow": 40662128478.973
+        },
+        {
+            "date": "2025-05-02",
+            "totalNetInflow": 674913599.9999934,
+            "totalValueTraded": 2896683744.9,
+            "totalNetAssets": 113149486148.63528,
+            "cumNetInflow": 40236675493.663
+        },
+        {
+            "date": "2025-05-01",
+            "totalNetInflow": 422448326.7800066,
+            "totalValueTraded": 3518153147.41,
+            "totalNetAssets": 111986220453.59009,
+            "cumNetInflow": 39561761893.663
+        },
+        {
+            "date": "2025-04-30",
+            "totalNetInflow": -56233632.01499997,
+            "totalValueTraded": 2391238480.36,
+            "totalNetAssets": 108583018201.60144,
+            "cumNetInflow": 39139313566.882996
+        },
+        {
+            "date": "2025-04-29",
+            "totalNetInflow": 172781570.075,
+            "totalValueTraded": 2006251298.71,
+            "totalNetAssets": 110170761489.31532,
+            "cumNetInflow": 39195547198.897995
+        },
+        {
+            "date": "2025-04-28",
+            "totalNetInflow": 591288600.91,
+            "totalValueTraded": 2420475766.02,
+            "totalNetAssets": 109301055703.21016,
+            "cumNetInflow": 39022765628.823
+        },
+        {
+            "date": "2025-04-25",
+            "totalNetInflow": 379994959.58,
+            "totalValueTraded": 3306609879.3,
+            "totalNetAssets": 109273098662.22708,
+            "cumNetInflow": 38431477027.913
+        },
+        {
+            "date": "2025-04-24",
+            "totalNetInflow": 441997650.3200063,
+            "totalValueTraded": 2029676472.1,
+            "totalNetAssets": 106967130235.35391,
+            "cumNetInflow": 38051482068.333
+        },
+        {
+            "date": "2025-04-23",
+            "totalNetInflow": 916908282.6749938,
+            "totalValueTraded": 4092991497.6,
+            "totalNetAssets": 106387900988.97935,
+            "cumNetInflow": 37609484418.01299
+        },
+        {
+            "date": "2025-04-22",
+            "totalNetInflow": 936433322.75,
+            "totalValueTraded": 5583258307.3,
+            "totalNetAssets": 103344585832.48177,
+            "cumNetInflow": 36692576135.338
+        },
+        {
+            "date": "2025-04-21",
+            "totalNetInflow": 381399377.16,
+            "totalValueTraded": 3752373148.8,
+            "totalNetAssets": 97611327206.23633,
+            "cumNetInflow": 35756142812.588
+        },
+        {
+            "date": "2025-04-17",
+            "totalNetInflow": 107829223.57,
+            "totalValueTraded": 1552777656.0,
+            "totalNetAssets": 94507003946.61311,
+            "cumNetInflow": 35374743435.428
+        },
+        {
+            "date": "2025-04-16",
+            "totalNetInflow": -169867570.37,
+            "totalValueTraded": 1833571034.29,
+            "totalNetAssets": 93650024845.57256,
+            "cumNetInflow": 35266914211.858
+        },
+        {
+            "date": "2025-04-15",
+            "totalNetInflow": 76415057.04,
+            "totalValueTraded": 1604620469.0,
+            "totalNetAssets": 93719255819.81915,
+            "cumNetInflow": 35436781782.228
+        },
+        {
+            "date": "2025-04-14",
+            "totalNetInflow": 1470471.939999996,
+            "totalValueTraded": 2162751436.2,
+            "totalNetAssets": 94691967762.52324,
+            "cumNetInflow": 35360366725.187996
+        },
+        {
+            "date": "2025-04-11",
+            "totalNetInflow": -1027074.599999999,
+            "totalValueTraded": 3464514257.2,
+            "totalNetAssets": 93357800630.8878,
+            "cumNetInflow": 35358896253.248
+        },
+        {
+            "date": "2025-04-10",
+            "totalNetInflow": -149664572.645,
+            "totalValueTraded": 3013536310.55,
+            "totalNetAssets": 88612809441.93797,
+            "cumNetInflow": 35359923327.848
+        },
+        {
+            "date": "2025-04-09",
+            "totalNetInflow": -127121657.74,
+            "totalValueTraded": 5297010314.8,
+            "totalNetAssets": 91790024184.00555,
+            "cumNetInflow": 35509587900.493
+        },
+        {
+            "date": "2025-04-08",
+            "totalNetInflow": -326272921.74,
+            "totalValueTraded": 2995388328.85,
+            "totalNetAssets": 85756010628.22324,
+            "cumNetInflow": 35636709558.233
+        },
+        {
+            "date": "2025-04-07",
+            "totalNetInflow": -109209809.815,
+            "totalValueTraded": 6587174077.1,
+            "totalNetAssets": 87858584458.683,
+            "cumNetInflow": 35962982479.973
+        },
+        {
+            "date": "2025-04-04",
+            "totalNetInflow": -64877645.669999994,
+            "totalValueTraded": 4435769727.32,
+            "totalNetAssets": 94450421277.10512,
+            "cumNetInflow": 36072192289.788
+        },
+        {
+            "date": "2025-04-03",
+            "totalNetInflow": -99859088.38,
+            "totalValueTraded": 2583116887.3,
+            "totalNetAssets": 92177467739.81984,
+            "cumNetInflow": 36137069935.458
+        },
+        {
+            "date": "2025-04-02",
+            "totalNetInflow": 220762938.99499997,
+            "totalValueTraded": 2507834570.45,
+            "totalNetAssets": 97354213139.16104,
+            "cumNetInflow": 36236929023.838
+        },
+        {
+            "date": "2025-04-01",
+            "totalNetInflow": -157643699.57000002,
+            "totalValueTraded": 2086707243.38,
+            "totalNetAssets": 95448359732.40852,
+            "cumNetInflow": 36016166084.842995
+        },
+        {
+            "date": "2025-03-31",
+            "totalNetInflow": -71074972.34,
+            "totalValueTraded": 1596154216.44,
+            "totalNetAssets": 93166266596.43204,
+            "cumNetInflow": 36173809784.413
+        },
+        {
+            "date": "2025-03-28",
+            "totalNetInflow": -93157233.675,
+            "totalValueTraded": 2219971627.77,
+            "totalNetAssets": 94387629960.80156,
+            "cumNetInflow": 36244884756.753
+        },
+        {
+            "date": "2025-03-27",
+            "totalNetInflow": 89063833.85999998,
+            "totalValueTraded": 2023808731.58,
+            "totalNetAssets": 98287845162.25688,
+            "cumNetInflow": 36338041990.428
+        },
+        {
+            "date": "2025-03-26",
+            "totalNetInflow": 89569611.59,
+            "totalValueTraded": 1870550447.9,
+            "totalNetAssets": 97217087504.45096,
+            "cumNetInflow": 36248978156.568
+        },
+        {
+            "date": "2025-03-25",
+            "totalNetInflow": 26834350.91,
+            "totalValueTraded": 1370255963.23,
+            "totalNetAssets": 99071749398.00745,
+            "cumNetInflow": 36159408544.978
+        },
+        {
+            "date": "2025-03-24",
+            "totalNetInflow": 84173567.21000001,
+            "totalValueTraded": 1967869577.9,
+            "totalNetAssets": 99313663458.07756,
+            "cumNetInflow": 36132574194.068
+        },
+        {
+            "date": "2025-03-21",
+            "totalNetInflow": 83091868.2,
+            "totalValueTraded": 1132318302.01,
+            "totalNetAssets": 94351055464.4606,
+            "cumNetInflow": 36048400626.858
+        },
+        {
+            "date": "2025-03-20",
+            "totalNetInflow": 165750101.0,
+            "totalValueTraded": 1828018880.69,
+            "totalNetAssets": 94471970105.08632,
+            "cumNetInflow": 35965308758.658
+        },
+        {
+            "date": "2025-03-19",
+            "totalNetInflow": 11798372.74,
+            "totalValueTraded": 2534702528.35,
+            "totalNetAssets": 95748570440.77553,
+            "cumNetInflow": 35799558657.658
+        },
+        {
+            "date": "2025-03-18",
+            "totalNetInflow": 209117235.48,
+            "totalValueTraded": 2120039983.52,
+            "totalNetAssets": 91973954530.80577,
+            "cumNetInflow": 35787760284.918
+        },
+        {
+            "date": "2025-03-17",
+            "totalNetInflow": 274590665.565,
+            "totalValueTraded": 1867489218.87,
+            "totalNetAssets": 94480487561.07516,
+            "cumNetInflow": 35578643049.437996
+        },
+        {
+            "date": "2025-03-14",
+            "totalNetInflow": 32116293.52000001,
+            "totalValueTraded": 2805233732.02,
+            "totalNetAssets": 93540822587.04268,
+            "cumNetInflow": 35304052383.873
+        },
+        {
+            "date": "2025-03-13",
+            "totalNetInflow": -143298082.3,
+            "totalValueTraded": 2526491367.84,
+            "totalNetAssets": 89604791802.21468,
+            "cumNetInflow": 35271936090.353
+        },
+        {
+            "date": "2025-03-12",
+            "totalNetInflow": 13332608.63,
+            "totalValueTraded": 2014540684.18,
+            "totalNetAssets": 92453683536.27045,
+            "cumNetInflow": 35415234172.653
+        },
+        {
+            "date": "2025-03-11",
+            "totalNetInflow": -371002863.425,
+            "totalValueTraded": 3066908127.59,
+            "totalNetAssets": 92837522517.48228,
+            "cumNetInflow": 35401901564.022995
+        },
+        {
+            "date": "2025-03-10",
+            "totalNetInflow": -369422689.71,
+            "totalValueTraded": 5053661917.5,
+            "totalNetAssets": 88140842544.26157,
+            "cumNetInflow": 35772904427.448
+        },
+        {
+            "date": "2025-03-07",
+            "totalNetInflow": -409213077.42,
+            "totalValueTraded": 3971878342.9,
+            "totalNetAssets": 98483261564.16504,
+            "cumNetInflow": 36142327117.158
+        },
+        {
+            "date": "2025-03-06",
+            "totalNetInflow": -134261943.145,
+            "totalValueTraded": 3286202092.44,
+            "totalNetAssets": 100601564031.01115,
+            "cumNetInflow": 36551540194.577995
+        },
+        {
+            "date": "2025-03-05",
+            "totalNetInflow": -38295824.33,
+            "totalValueTraded": 3273699047.88,
+            "totalNetAssets": 102118428161.88452,
+            "cumNetInflow": 36685802137.723
+        },
+        {
+            "date": "2025-03-04",
+            "totalNetInflow": -143433832.10999998,
+            "totalValueTraded": 4546132653.41,
+            "totalNetAssets": 99373635775.94617,
+            "cumNetInflow": 36724097962.053
+        },
+        {
+            "date": "2025-03-03",
+            "totalNetInflow": -74189301.4,
+            "totalValueTraded": 5987150489.0,
+            "totalNetAssets": 97258225490.5299,
+            "cumNetInflow": 36867531794.163
+        },
+        {
+            "date": "2025-02-28",
+            "totalNetInflow": 94336134.04,
+            "totalValueTraded": 3908969139.0,
+            "totalNetAssets": 95379045180.4334,
+            "cumNetInflow": 36941721095.562996
+        },
+        {
+            "date": "2025-02-27",
+            "totalNetInflow": -275831620.92,
+            "totalValueTraded": 3011240234.81,
+            "totalNetAssets": 94302385690.16447,
+            "cumNetInflow": 36847384961.522995
+        },
+        {
+            "date": "2025-02-26",
+            "totalNetInflow": -754525046.7049943,
+            "totalValueTraded": 5792362322.88,
+            "totalNetAssets": 95162126012.01219,
+            "cumNetInflow": 37123216582.443
+        },
+        {
+            "date": "2025-02-25",
+            "totalNetInflow": -1138847756.0,
+            "totalValueTraded": 7735367426.8,
+            "totalNetAssets": 101012070816.84804,
+            "cumNetInflow": 37877741629.147995
+        },
+        {
+            "date": "2025-02-24",
+            "totalNetInflow": -538980429.645,
+            "totalValueTraded": 2898451888.53,
+            "totalNetAssets": 109189420239.48347,
+            "cumNetInflow": 39016589385.147995
+        },
+        {
+            "date": "2025-02-21",
+            "totalNetInflow": -62772515.2400129,
+            "totalValueTraded": 3935378356.2,
+            "totalNetAssets": 110795193417.55208,
+            "cumNetInflow": 39555569814.79299
+        },
+        {
+            "date": "2025-02-20",
+            "totalNetInflow": -364933137.725,
+            "totalValueTraded": 1908511749.0,
+            "totalNetAssets": 114861852221.80945,
+            "cumNetInflow": 39618342330.033005
+        },
+        {
+            "date": "2025-02-19",
+            "totalNetInflow": -71070931.26,
+            "totalValueTraded": 2047466896.7,
+            "totalNetAssets": 112586619861.92172,
+            "cumNetInflow": 39983275467.758
+        },
+        {
+            "date": "2025-02-18",
+            "totalNetInflow": -60634954.72,
+            "totalValueTraded": 2832989294.0,
+            "totalNetAssets": 110070696738.52513,
+            "cumNetInflow": 40054346399.018005
+        },
+        {
+            "date": "2025-02-14",
+            "totalNetInflow": 66186495.425006635,
+            "totalValueTraded": 2200281149.88,
+            "totalNetAssets": 114436183593.26245,
+            "cumNetInflow": 40114981353.73801
+        },
+        {
+            "date": "2025-02-13",
+            "totalNetInflow": -157775868.05,
+            "totalValueTraded": 1773493338.0,
+            "totalNetAssets": 112479811391.76053,
+            "cumNetInflow": 40048794858.312996
+        },
+        {
+            "date": "2025-02-12",
+            "totalNetInflow": -251025523.3400066,
+            "totalValueTraded": 2525001276.9,
+            "totalNetAssets": 113913227216.83824,
+            "cumNetInflow": 40206570726.363
+        },
+        {
+            "date": "2025-02-11",
+            "totalNetInflow": -56755705.359993555,
+            "totalValueTraded": 2139657139.48,
+            "totalNetAssets": 111777532115.54868,
+            "cumNetInflow": 40457596249.703
+        },
+        {
+            "date": "2025-02-10",
+            "totalNetInflow": -186277135.15,
+            "totalValueTraded": 1844153909.82,
+            "totalNetAssets": 114437100978.47012,
+            "cumNetInflow": 40514351955.062996
+        },
+        {
+            "date": "2025-02-07",
+            "totalNetInflow": 171186343.18500653,
+            "totalValueTraded": 3252865468.2,
+            "totalNetAssets": 113094572186.56952,
+            "cumNetInflow": 40700629090.213
+        },
+        {
+            "date": "2025-02-06",
+            "totalNetInflow": -140299486.55,
+            "totalValueTraded": 2447483302.32,
+            "totalNetAssets": 113508296147.74884,
+            "cumNetInflow": 40529442747.02799
+        },
+        {
+            "date": "2025-02-05",
+            "totalNetInflow": 66376113.8449934,
+            "totalValueTraded": 2037956795.02,
+            "totalNetAssets": 114706108272.912,
+            "cumNetInflow": 40669742233.577995
+        },
+        {
+            "date": "2025-02-04",
+            "totalNetInflow": 340815150.7100067,
+            "totalValueTraded": 3796371739.9,
+            "totalNetAssets": 116043895418.22525,
+            "cumNetInflow": 40603366119.733
+        },
+        {
+            "date": "2025-02-03",
+            "totalNetInflow": -234537561.1,
+            "totalValueTraded": 5875252838.5,
+            "totalNetAssets": 119140429033.4252,
+            "cumNetInflow": 40262550969.022995
+        },
+        {
+            "date": "2025-01-31",
+            "totalNetInflow": 318561243.08999306,
+            "totalValueTraded": 3445901752.6,
+            "totalNetAssets": 119657428312.53291,
+            "cumNetInflow": 40497088530.12299
+        },
+        {
+            "date": "2025-01-30",
+            "totalNetInflow": 588224215.39,
+            "totalValueTraded": 2943242761.8,
+            "totalNetAssets": 123431940255.09784,
+            "cumNetInflow": 40178527287.033
+        },
+        {
+            "date": "2025-01-29",
+            "totalNetInflow": 92089472.83,
+            "totalValueTraded": 2995527976.2,
+            "totalNetAssets": 121361510139.67024,
+            "cumNetInflow": 39590303071.643
+        },
+        {
+            "date": "2025-01-28",
+            "totalNetInflow": 18437914.825,
+            "totalValueTraded": 2493782006.3,
+            "totalNetAssets": 118616609823.8842,
+            "cumNetInflow": 39498213598.812996
+        },
+        {
+            "date": "2025-01-27",
+            "totalNetInflow": -457475226.69,
+            "totalValueTraded": 4798333632.95,
+            "totalNetAssets": 117350175797.90508,
+            "cumNetInflow": 39479775683.988
+        },
+        {
+            "date": "2025-01-24",
+            "totalNetInflow": 517669375.76,
+            "totalValueTraded": 3647683845.94,
+            "totalNetAssets": 123057900742.74107,
+            "cumNetInflow": 39937250910.678
+        },
+        {
+            "date": "2025-01-23",
+            "totalNetInflow": 188645636.29999757,
+            "totalValueTraded": 9588622933.2,
+            "totalNetAssets": 121598797854.21667,
+            "cumNetInflow": 39419581534.918
+        },
+        {
+            "date": "2025-01-22",
+            "totalNetInflow": 248653567.86500245,
+            "totalValueTraded": 2974623213.4,
+            "totalNetAssets": 121402731516.02193,
+            "cumNetInflow": 39230935898.618004
+        },
+        {
+            "date": "2025-01-21",
+            "totalNetInflow": 802496139.31,
+            "totalValueTraded": 5049174507.9,
+            "totalNetAssets": 123590287896.90979,
+            "cumNetInflow": 38982282330.753
+        },
+        {
+            "date": "2025-01-17",
+            "totalNetInflow": 1076410739.29,
+            "totalValueTraded": 5441975097.4,
+            "totalNetAssets": 121279716792.43457,
+            "cumNetInflow": 38179786191.443
+        },
+        {
+            "date": "2025-01-16",
+            "totalNetInflow": 626150992.67,
+            "totalValueTraded": 2736106456.3,
+            "totalNetAssets": 114817762691.46848,
+            "cumNetInflow": 37103375452.153
+        },
+        {
+            "date": "2025-01-15",
+            "totalNetInflow": 755013696.4399999,
+            "totalValueTraded": 3184856293.8,
+            "totalNetAssets": 113636511202.95892,
+            "cumNetInflow": 36477224459.483
+        },
+        {
+            "date": "2025-01-14",
+            "totalNetInflow": -209824169.68,
+            "totalValueTraded": 2226064525.2,
+            "totalNetAssets": 108980924711.35359,
+            "cumNetInflow": 35722210763.043
+        },
+        {
+            "date": "2025-01-13",
+            "totalNetInflow": -284190492.98,
+            "totalValueTraded": 3172406516.0,
+            "totalNetAssets": 105045812020.9232,
+            "cumNetInflow": 35932034932.723
+        },
+        {
+            "date": "2025-01-10",
+            "totalNetInflow": -149350521.83,
+            "totalValueTraded": 3256890984.414,
+            "totalNetAssets": 107638860987.08716,
+            "cumNetInflow": 36216225425.703
+        },
+        {
+            "date": "2025-01-08",
+            "totalNetInflow": -582896929.21,
+            "totalValueTraded": 3403081369.2,
+            "totalNetAssets": 106815266960.06816,
+            "cumNetInflow": 36365575947.533
+        },
+        {
+            "date": "2025-01-07",
+            "totalNetInflow": 52389917.04000237,
+            "totalValueTraded": 4615726264.2,
+            "totalNetAssets": 110114489528.08069,
+            "cumNetInflow": 36948472876.743
+        },
+        {
+            "date": "2025-01-06",
+            "totalNetInflow": 987055105.9699976,
+            "totalValueTraded": 3956942083.8,
+            "totalNetAssets": 116666517307.79411,
+            "cumNetInflow": 36896082959.702995
+        },
+        {
+            "date": "2025-01-03",
+            "totalNetInflow": 908098479.245,
+            "totalValueTraded": 2594262360.2,
+            "totalNetAssets": 111456460453.79424,
+            "cumNetInflow": 35909027853.733
+        },
+        {
+            "date": "2025-01-02",
+            "totalNetInflow": -242296497.7050023,
+            "totalValueTraded": 3237933319.12,
+            "totalNetAssets": 109428492765.60036,
+            "cumNetInflow": 35000929374.488
+        },
+        {
+            "date": "2024-12-31",
+            "totalNetInflow": 5318057.260000002,
+            "totalValueTraded": 2247237460.67,
+            "totalNetAssets": 105401220738.79616,
+            "cumNetInflow": 35243225872.193
+        },
+        {
+            "date": "2024-12-30",
+            "totalNetInflow": -426126986.42499554,
+            "totalValueTraded": 3138752096.7,
+            "totalNetAssets": 106239027189.9276,
+            "cumNetInflow": 35237907814.933
+        },
+        {
+            "date": "2024-12-27",
+            "totalNetInflow": -297752265.2500045,
+            "totalValueTraded": 3016148336.28,
+            "totalNetAssets": 106682697270.39111,
+            "cumNetInflow": 35664034801.357994
+        },
+        {
+            "date": "2024-12-26",
+            "totalNetInflow": 475150899.13000226,
+            "totalValueTraded": 2129995941.63,
+            "totalNetAssets": 108240546751.40944,
+            "cumNetInflow": 35961787066.608
+        },
+        {
+            "date": "2024-12-24",
+            "totalNetInflow": -338381263.1,
+            "totalValueTraded": 2160869940.63,
+            "totalNetAssets": 110040469147.94624,
+            "cumNetInflow": 35486636167.478
+        },
+        {
+            "date": "2024-12-23",
+            "totalNetInflow": -226558044.91,
+            "totalValueTraded": 3515975075.4,
+            "totalNetAssets": 105084248438.01004,
+            "cumNetInflow": 35825017430.578
+        },
+        {
+            "date": "2024-12-20",
+            "totalNetInflow": -276933547.6,
+            "totalValueTraded": 4089299938.3,
+            "totalNetAssets": 109724567994.86565,
+            "cumNetInflow": 36051575475.488
+        },
+        {
+            "date": "2024-12-19",
+            "totalNetInflow": -679995509.7949977,
+            "totalValueTraded": 6305343815.3,
+            "totalNetAssets": 109655223846.90248,
+            "cumNetInflow": 36328509023.088
+        },
+        {
+            "date": "2024-12-18",
+            "totalNetInflow": 275391380.89999527,
+            "totalValueTraded": 5855070691.6,
+            "totalNetAssets": 115779457437.6018,
+            "cumNetInflow": 37008504532.882996
+        },
+        {
+            "date": "2024-12-17",
+            "totalNetInflow": 493946897.085,
+            "totalValueTraded": 4452854845.1,
+            "totalNetAssets": 121683199379.65305,
+            "cumNetInflow": 36733113151.983
+        },
+        {
+            "date": "2024-12-16",
+            "totalNetInflow": 636845161.570005,
+            "totalValueTraded": 5439949221.2,
+            "totalNetAssets": 120711743758.48788,
+            "cumNetInflow": 36239166254.898
+        },
+        {
+            "date": "2024-12-13",
+            "totalNetInflow": 428984779.81,
+            "totalValueTraded": 3097965538.2,
+            "totalNetAssets": 114969120665.19572,
+            "cumNetInflow": 35602321093.327995
+        },
+        {
+            "date": "2024-12-12",
+            "totalNetInflow": 597569590.7999976,
+            "totalValueTraded": 3148249363.66,
+            "totalNetAssets": 112545692198.12328,
+            "cumNetInflow": 35173336313.518
+        },
+        {
+            "date": "2024-12-11",
+            "totalNetInflow": 223028905.775,
+            "totalValueTraded": 3967586238.7,
+            "totalNetAssets": 113716556129.13644,
+            "cumNetInflow": 34575766722.718
+        },
+        {
+            "date": "2024-12-10",
+            "totalNetInflow": 439557953.58,
+            "totalValueTraded": 3781196448.05,
+            "totalNetAssets": 107762521935.26044,
+            "cumNetInflow": 34352737816.943
+        },
+        {
+            "date": "2024-12-09",
+            "totalNetInflow": 479055535.3000023,
+            "totalValueTraded": 4346657946.5,
+            "totalNetAssets": 107672727032.59952,
+            "cumNetInflow": 33913179863.363
+        },
+        {
+            "date": "2024-12-06",
+            "totalNetInflow": 376588835.37999517,
+            "totalValueTraded": 4076989575.8,
+            "totalNetAssets": 112744079769.39499,
+            "cumNetInflow": 33434124328.062996
+        },
+        {
+            "date": "2024-12-05",
+            "totalNetInflow": 766663223.3250023,
+            "totalValueTraded": 7101720321.0,
+            "totalNetAssets": 109154044535.815,
+            "cumNetInflow": 33057535492.683002
+        },
+        {
+            "date": "2024-12-04",
+            "totalNetInflow": 556824638.3199999,
+            "totalValueTraded": 4712389522.97,
+            "totalNetAssets": 108232023751.234,
+            "cumNetInflow": 32290872269.357998
+        },
+        {
+            "date": "2024-12-03",
+            "totalNetInflow": 675974792.86,
+            "totalValueTraded": 2926883562.57,
+            "totalNetAssets": 104253497392.014,
+            "cumNetInflow": 31734047631.038
+        },
+        {
+            "date": "2024-12-02",
+            "totalNetInflow": 353666931.21999997,
+            "totalValueTraded": 3912756164.4,
+            "totalNetAssets": 103909232098.214,
+            "cumNetInflow": 31058072838.178
+        },
+        {
+            "date": "2024-11-29",
+            "totalNetInflow": 320006108.68,
+            "totalValueTraded": 2507336213.6,
+            "totalNetAssets": 105278946028.97101,
+            "cumNetInflow": 30704405906.958
+        },
+        {
+            "date": "2024-11-27",
+            "totalNetInflow": 103087404.39,
+            "totalValueTraded": 4593934970.2,
+            "totalNetAssets": 104323029082.894,
+            "cumNetInflow": 30384399798.278
+        },
+        {
+            "date": "2024-11-26",
+            "totalNetInflow": -122784535.395,
+            "totalValueTraded": 5029282847.1,
+            "totalNetAssets": 98149938194.687,
+            "cumNetInflow": 30281312393.888
+        },
+        {
+            "date": "2024-11-25",
+            "totalNetInflow": -438383197.7250001,
+            "totalValueTraded": 5605670518.9,
+            "totalNetAssets": 102230244185.749,
+            "cumNetInflow": 30404096929.283
+        },
+        {
+            "date": "2024-11-22",
+            "totalNetInflow": 490346944.5500002,
+            "totalValueTraded": 5399841351.6,
+            "totalNetAssets": 107487781609.948,
+            "cumNetInflow": 30842480127.008
+        },
+        {
+            "date": "2024-11-21",
+            "totalNetInflow": 1004967385.105,
+            "totalValueTraded": 7096171500.8,
+            "totalNetAssets": 105907621021.38899,
+            "cumNetInflow": 30352133182.458
+        },
+        {
+            "date": "2024-11-20",
+            "totalNetInflow": 796053552.973,
+            "totalValueTraded": 5094027671.5,
+            "totalNetAssets": 100628869579.732,
+            "cumNetInflow": 29347165797.353
+        },
+        {
+            "date": "2024-11-19",
+            "totalNetInflow": 837358509.8549998,
+            "totalValueTraded": 5708995423.3,
+            "totalNetAssets": 98426407311.554,
+            "cumNetInflow": 28551112244.38
+        },
+        {
+            "date": "2024-11-18",
+            "totalNetInflow": 254824490.94,
+            "totalValueTraded": 4784052548.4,
+            "totalNetAssets": 95931620693.675,
+            "cumNetInflow": 27713753734.525
+        },
+        {
+            "date": "2024-11-15",
+            "totalNetInflow": -370103376.00999993,
+            "totalValueTraded": 3624609122.13,
+            "totalNetAssets": 95406528230.14,
+            "cumNetInflow": 27458929243.585
+        },
+        {
+            "date": "2024-11-14",
+            "totalNetInflow": -400672193.765,
+            "totalValueTraded": 4818040327.1,
+            "totalNetAssets": 92556462910.765,
+            "cumNetInflow": 27829032619.595
+        },
+        {
+            "date": "2024-11-13",
+            "totalNetInflow": 510109934.27,
+            "totalValueTraded": 8066947571.0,
+            "totalNetAssets": 95396498195.01,
+            "cumNetInflow": 28229704813.36
+        },
+        {
+            "date": "2024-11-12",
+            "totalNetInflow": 817535039.97,
+            "totalValueTraded": 5722845819.7,
+            "totalNetAssets": 94015999909.52,
+            "cumNetInflow": 27719594879.09
+        },
+        {
+            "date": "2024-11-11",
+            "totalNetInflow": 1114027499.3000002,
+            "totalValueTraded": 7305929320.5,
+            "totalNetAssets": 90604537254.145,
+            "cumNetInflow": 26902059839.12
+        },
+        {
+            "date": "2024-11-08",
+            "totalNetInflow": 293474358.79,
+            "totalValueTraded": 2834606743.8,
+            "totalNetAssets": 78908075032.06,
+            "cumNetInflow": 25788032339.82
+        },
+        {
+            "date": "2024-11-07",
+            "totalNetInflow": 1375985491.91,
+            "totalValueTraded": 2758083533.9,
+            "totalNetAssets": 78500252133.32,
+            "cumNetInflow": 25494557981.03
+        },
+        {
+            "date": "2024-11-06",
+            "totalNetInflow": 621899344.62,
+            "totalValueTraded": 6066278686.4,
+            "totalNetAssets": 76481097026.085,
+            "cumNetInflow": 24118572489.12
+        },
+        {
+            "date": "2024-11-05",
+            "totalNetInflow": -116901503.38499992,
+            "totalValueTraded": 2392956274.0,
+            "totalNetAssets": 69276733014.855,
+            "cumNetInflow": 23496673144.5
+        },
+        {
+            "date": "2024-11-04",
+            "totalNetInflow": -541068862.8249999,
+            "totalValueTraded": 2223924706.94,
+            "totalNetAssets": 67441181077.93,
+            "cumNetInflow": 23613574647.885
+        },
+        {
+            "date": "2024-11-01",
+            "totalNetInflow": -54940341.750000075,
+            "totalValueTraded": 3094361535.08,
+            "totalNetAssets": 69637270902.58,
+            "cumNetInflow": 24154643510.71
+        },
+        {
+            "date": "2024-10-31",
+            "totalNetInflow": 32140814.224999964,
+            "totalValueTraded": 3065862774.71,
+            "totalNetAssets": 70857576145.27,
+            "cumNetInflow": 24209583852.46
+        },
+        {
+            "date": "2024-10-30",
+            "totalNetInflow": 893211570.0999999,
+            "totalValueTraded": 1972138741.05,
+            "totalNetAssets": 72457673930.205,
+            "cumNetInflow": 24177443038.235
+        },
+        {
+            "date": "2024-10-29",
+            "totalNetInflow": 870023473.1800001,
+            "totalValueTraded": 4747713116.6,
+            "totalNetAssets": 72545203636.87,
+            "cumNetInflow": 23284231468.135
+        },
+        {
+            "date": "2024-10-28",
+            "totalNetInflow": 479351551.45,
+            "totalValueTraded": 3001082935.06,
+            "totalNetAssets": 68471711464.1,
+            "cumNetInflow": 22414207994.954998
+        },
+        {
+            "date": "2024-10-25",
+            "totalNetInflow": 402076677.33,
+            "totalValueTraded": 2902355304.12,
+            "totalNetAssets": 65252849053.19,
+            "cumNetInflow": 21934856443.505
+        },
+        {
+            "date": "2024-10-24",
+            "totalNetInflow": 188111892.76,
+            "totalValueTraded": 1461878645.72,
+            "totalNetAssets": 66086052982.695,
+            "cumNetInflow": 21532779766.175
+        },
+        {
+            "date": "2024-10-23",
+            "totalNetInflow": 192313193.75,
+            "totalValueTraded": 1550086212.53,
+            "totalNetAssets": 64088255772.52,
+            "cumNetInflow": 21344667873.415
+        },
+        {
+            "date": "2024-10-22",
+            "totalNetInflow": -79090543.74,
+            "totalValueTraded": 1398726071.3,
+            "totalNetAssets": 65118006587.955,
+            "cumNetInflow": 21152354679.665
+        },
+        {
+            "date": "2024-10-21",
+            "totalNetInflow": 294285419.9,
+            "totalValueTraded": 1759657387.51,
+            "totalNetAssets": 65336506959.515,
+            "cumNetInflow": 21231445223.405
+        },
+        {
+            "date": "2024-10-18",
+            "totalNetInflow": 273707013.285,
+            "totalValueTraded": 2225088241.43,
+            "totalNetAssets": 66114331896.405,
+            "cumNetInflow": 20937159803.505
+        },
+        {
+            "date": "2024-10-17",
+            "totalNetInflow": 470479138.98,
+            "totalValueTraded": 1473605336.6,
+            "totalNetAssets": 64060876123.35,
+            "cumNetInflow": 20663452790.22
+        },
+        {
+            "date": "2024-10-16",
+            "totalNetInflow": 458536071.735,
+            "totalValueTraded": 1575987725.61,
+            "totalNetAssets": 64459041610.81,
+            "cumNetInflow": 20192973651.239998
+        },
+        {
+            "date": "2024-10-15",
+            "totalNetInflow": 371024201.64,
+            "totalValueTraded": 3051094949.1,
+            "totalNetAssets": 63125860372.455,
+            "cumNetInflow": 19734437579.505
+        },
+        {
+            "date": "2024-10-14",
+            "totalNetInflow": 555859113.78,
+            "totalValueTraded": 2612498348.5,
+            "totalNetAssets": 61894994455.21,
+            "cumNetInflow": 19363413377.864998
+        },
+        {
+            "date": "2024-10-11",
+            "totalNetInflow": 253543914.355,
+            "totalValueTraded": 2056746796.87,
+            "totalNetAssets": 58662011868.68,
+            "cumNetInflow": 18807554264.085
+        },
+        {
+            "date": "2024-10-10",
+            "totalNetInflow": -120755914.92,
+            "totalValueTraded": 1356003882.86,
+            "totalNetAssets": 55150795114.67,
+            "cumNetInflow": 18554010349.73
+        },
+        {
+            "date": "2024-10-09",
+            "totalNetInflow": -40561873.2,
+            "totalValueTraded": 969757900.69,
+            "totalNetAssets": 56631045429.575,
+            "cumNetInflow": 18674766264.65
+        },
+        {
+            "date": "2024-10-08",
+            "totalNetInflow": -18663019.16,
+            "totalValueTraded": 1352330925.69,
+            "totalNetAssets": 57717725429.94,
+            "cumNetInflow": 18715328137.85
+        },
+        {
+            "date": "2024-10-07",
+            "totalNetInflow": 235194873.31499994,
+            "totalValueTraded": 1221640988.5,
+            "totalNetAssets": 58812775937.535,
+            "cumNetInflow": 18733991157.01
+        },
+        {
+            "date": "2024-10-04",
+            "totalNetInflow": 25585851.834999997,
+            "totalValueTraded": 1187384630.0,
+            "totalNetAssets": 57733757252.36,
+            "cumNetInflow": 18498796283.695
+        },
+        {
+            "date": "2024-10-03",
+            "totalNetInflow": -54133020.63999994,
+            "totalValueTraded": 1131761458.02,
+            "totalNetAssets": 56314551624.78,
+            "cumNetInflow": 18473210431.86
+        },
+        {
+            "date": "2024-10-02",
+            "totalNetInflow": -91763349.35,
+            "totalValueTraded": 1663529112.57,
+            "totalNetAssets": 55850237740.465,
+            "cumNetInflow": 18527343452.5
+        },
+        {
+            "date": "2024-10-01",
+            "totalNetInflow": -242530499.485,
+            "totalValueTraded": 2525545687.5,
+            "totalNetAssets": 57361992401.994995,
+            "cumNetInflow": 18619106801.85
+        },
+        {
+            "date": "2024-09-30",
+            "totalNetInflow": 61296621.51,
+            "totalValueTraded": 1366704832.13,
+            "totalNetAssets": 59084911574.865,
+            "cumNetInflow": 18861637301.335
+        },
+        {
+            "date": "2024-09-27",
+            "totalNetInflow": 494267716.6499999,
+            "totalValueTraded": 1865051000.25,
+            "totalNetAssets": 61210108012.335,
+            "cumNetInflow": 18800340679.825
+        },
+        {
+            "date": "2024-09-26",
+            "totalNetInflow": 365565988.45000005,
+            "totalValueTraded": 2427287908.56,
+            "totalNetAssets": 60026491592.465,
+            "cumNetInflow": 18306072963.175
+        },
+        {
+            "date": "2024-09-25",
+            "totalNetInflow": 105841865.33,
+            "totalValueTraded": 795853745.13,
+            "totalNetAssets": 58043422169.28,
+            "cumNetInflow": 17940506974.725
+        },
+        {
+            "date": "2024-09-24",
+            "totalNetInflow": 135948724.26,
+            "totalValueTraded": 1111826156.0,
+            "totalNetAssets": 58673003508.96,
+            "cumNetInflow": 17834665109.395
+        },
+        {
+            "date": "2024-09-23",
+            "totalNetInflow": 4555875.93,
+            "totalValueTraded": 949716368.08,
+            "totalNetAssets": 57905903408.66,
+            "cumNetInflow": 17698716385.135
+        },
+        {
+            "date": "2024-09-20",
+            "totalNetInflow": 91996489.025,
+            "totalValueTraded": 980566904.18,
+            "totalNetAssets": 57473993028.71,
+            "cumNetInflow": 17694160509.204998
+        },
+        {
+            "date": "2024-09-19",
+            "totalNetInflow": 158211525.6,
+            "totalValueTraded": 1438605209.77,
+            "totalNetAssets": 57819251191.685,
+            "cumNetInflow": 17602164020.18
+        },
+        {
+            "date": "2024-09-18",
+            "totalNetInflow": -52827023.52,
+            "totalValueTraded": 1633131676.82,
+            "totalNetAssets": 54845800287.57,
+            "cumNetInflow": 17443952494.579998
+        },
+        {
+            "date": "2024-09-17",
+            "totalNetInflow": 186755222.67499998,
+            "totalValueTraded": 2270256248.1,
+            "totalNetAssets": 54840325948.835,
+            "cumNetInflow": 17496779518.1
+        },
+        {
+            "date": "2024-09-16",
+            "totalNetInflow": 12904103.89,
+            "totalValueTraded": 1098035079.32,
+            "totalNetAssets": 52569532466.06,
+            "cumNetInflow": 17310024295.425
+        },
+        {
+            "date": "2024-09-13",
+            "totalNetInflow": 263070113.49,
+            "totalValueTraded": 1822869960.55,
+            "totalNetAssets": 54305604168.26501,
+            "cumNetInflow": 17297120191.535
+        },
+        {
+            "date": "2024-09-12",
+            "totalNetInflow": 39023926.02499976,
+            "totalValueTraded": 896954264.09,
+            "totalNetAssets": 52672558797.095,
+            "cumNetInflow": 17034050078.045
+        },
+        {
+            "date": "2024-09-11",
+            "totalNetInflow": -43965610.98,
+            "totalValueTraded": 1269761936.32,
+            "totalNetAssets": 51957145867.85,
+            "cumNetInflow": 16995026152.02
+        },
+        {
+            "date": "2024-09-10",
+            "totalNetInflow": 116960855.49999999,
+            "totalValueTraded": 712251463.69,
+            "totalNetAssets": 52201660191.83,
+            "cumNetInflow": 17038991763.0
+        },
+        {
+            "date": "2024-09-09",
+            "totalNetInflow": 28719633.590000235,
+            "totalValueTraded": 1610860661.9,
+            "totalNetAssets": 51310045721.33,
+            "cumNetInflow": 16922030907.5
+        },
+        {
+            "date": "2024-09-06",
+            "totalNetInflow": -169970418.8449998,
+            "totalValueTraded": 2388401707.02,
+            "totalNetAssets": 48242908583.299995,
+            "cumNetInflow": 16893311273.91
+        },
+        {
+            "date": "2024-09-05",
+            "totalNetInflow": -211152972.81000024,
+            "totalValueTraded": 1349127748.06,
+            "totalNetAssets": 50726893150.795,
+            "cumNetInflow": 17063281692.755
+        },
+        {
+            "date": "2024-09-04",
+            "totalNetInflow": -37287522.35,
+            "totalValueTraded": 1407980914.89,
+            "totalNetAssets": 52581745389.475,
+            "cumNetInflow": 17274434665.565
+        },
+        {
+            "date": "2024-09-03",
+            "totalNetInflow": -287777306.79,
+            "totalValueTraded": 1561208191.3,
+            "totalNetAssets": 52688605012.885,
+            "cumNetInflow": 17311722187.915
+        },
+        {
+            "date": "2024-08-30",
+            "totalNetInflow": -175670694.49,
+            "totalValueTraded": 1543927875.07,
+            "totalNetAssets": 53775193980.265,
+            "cumNetInflow": 17599499494.704998
+        },
+        {
+            "date": "2024-08-29",
+            "totalNetInflow": -71730053.78999999,
+            "totalValueTraded": 1635811761.61,
+            "totalNetAssets": 54361974219.125,
+            "cumNetInflow": 17775170189.195
+        },
+        {
+            "date": "2024-08-28",
+            "totalNetInflow": -105188059.92999999,
+            "totalValueTraded": 2182745784.1,
+            "totalNetAssets": 54321735689.6,
+            "cumNetInflow": 17846900242.985
+        },
+        {
+            "date": "2024-08-27",
+            "totalNetInflow": -127050853.95,
+            "totalValueTraded": 1204893473.0,
+            "totalNetAssets": 57067535586.545,
+            "cumNetInflow": 17952088302.915
+        },
+        {
+            "date": "2024-08-26",
+            "totalNetInflow": 202514843.325,
+            "totalValueTraded": 1202331341.5,
+            "totalNetAssets": 58472975182.8,
+            "cumNetInflow": 18079139156.864998
+        },
+        {
+            "date": "2024-08-23",
+            "totalNetInflow": 251997600.62,
+            "totalValueTraded": 3123181428.99,
+            "totalNetAssets": 58426305248.63,
+            "cumNetInflow": 17876624313.54
+        },
+        {
+            "date": "2024-08-22",
+            "totalNetInflow": 64907226.31,
+            "totalValueTraded": 899627911.2,
+            "totalNetAssets": 55130818091.97,
+            "cumNetInflow": 17624626712.92
+        },
+        {
+            "date": "2024-08-21",
+            "totalNetInflow": 39424994.5,
+            "totalValueTraded": 1418913570.99,
+            "totalNetAssets": 55964105539.83,
+            "cumNetInflow": 17559719486.61
+        },
+        {
+            "date": "2024-08-20",
+            "totalNetInflow": 88060585.87,
+            "totalValueTraded": 1346265755.33,
+            "totalNetAssets": 54247129604.405,
+            "cumNetInflow": 17520294492.11
+        },
+        {
+            "date": "2024-08-19",
+            "totalNetInflow": 61980332.245,
+            "totalValueTraded": 779820813.57,
+            "totalNetAssets": 53770585348.92,
+            "cumNetInflow": 17432233906.239998
+        },
+        {
+            "date": "2024-08-16",
+            "totalNetInflow": 36014977.33,
+            "totalValueTraded": 1435887919.82,
+            "totalNetAssets": 54352530664.18,
+            "cumNetInflow": 17372353574.02
+        },
+        {
+            "date": "2024-08-15",
+            "totalNetInflow": 11111612.95,
+            "totalValueTraded": 1788131813.27,
+            "totalNetAssets": 51991580819.305,
+            "cumNetInflow": 17334238596.665
+        },
+        {
+            "date": "2024-08-14",
+            "totalNetInflow": -81362959.905,
+            "totalValueTraded": 1298903670.94,
+            "totalNetAssets": 53602530297.08,
+            "cumNetInflow": 17323126983.715
+        },
+        {
+            "date": "2024-08-13",
+            "totalNetInflow": 38944242.725,
+            "totalValueTraded": 1177718094.269,
+            "totalNetAssets": 55339774636.39,
+            "cumNetInflow": 17404489943.62
+        },
+        {
+            "date": "2024-08-12",
+            "totalNetInflow": 27868901.370000005,
+            "totalValueTraded": 1296493317.99,
+            "totalNetAssets": 53745647992.495,
+            "cumNetInflow": 17365545700.895
+        },
+        {
+            "date": "2024-08-09",
+            "totalNetInflow": -89731198.875,
+            "totalValueTraded": 1270235289.14,
+            "totalNetAssets": 55113962467.39,
+            "cumNetInflow": 17337676799.525
+        },
+        {
+            "date": "2024-08-08",
+            "totalNetInflow": 192559191.1,
+            "totalValueTraded": 2022611530.46,
+            "totalNetAssets": 54311671193.585,
+            "cumNetInflow": 17427407998.4
+        },
+        {
+            "date": "2024-08-07",
+            "totalNetInflow": 45138666.42,
+            "totalValueTraded": 1792915086.0,
+            "totalNetAssets": 49820856350.025,
+            "cumNetInflow": 17234848807.3
+        },
+        {
+            "date": "2024-08-06",
+            "totalNetInflow": -148555939.72,
+            "totalValueTraded": 2196310329.61,
+            "totalNetAssets": 51465991515.195,
+            "cumNetInflow": 17189710140.88
+        },
+        {
+            "date": "2024-08-05",
+            "totalNetInflow": -168438469.7,
+            "totalValueTraded": 5241846513.3,
+            "totalNetAssets": 48428006998.815,
+            "cumNetInflow": 17338266080.6
+        },
+        {
+            "date": "2024-08-02",
+            "totalNetInflow": -237450547.39,
+            "totalValueTraded": 2336137713.26,
+            "totalNetAssets": 57203488302.28,
+            "cumNetInflow": 17506704550.3
+        },
+        {
+            "date": "2024-08-01",
+            "totalNetInflow": 50640025.095,
+            "totalValueTraded": 2906994192.86,
+            "totalNetAssets": 58015548104.845,
+            "cumNetInflow": 17744155097.69
+        },
+        {
+            "date": "2024-07-31",
+            "totalNetInflow": 298929.5800000004,
+            "totalValueTraded": 1371031948.5,
+            "totalNetAssets": 60121801381.25,
+            "cumNetInflow": 17693515072.595
+        },
+        {
+            "date": "2024-07-30",
+            "totalNetInflow": -18302726.7,
+            "totalValueTraded": 1369037635.927,
+            "totalNetAssets": 58511741546.375,
+            "cumNetInflow": 17693216143.015
+        },
+        {
+            "date": "2024-07-29",
+            "totalNetInflow": 124128899.48,
+            "totalValueTraded": 2678294763.6,
+            "totalNetAssets": 61732374967.335,
+            "cumNetInflow": 17711518869.715
+        },
+        {
+            "date": "2024-07-26",
+            "totalNetInflow": 51657226.525,
+            "totalValueTraded": 2037635417.95,
+            "totalNetAssets": 62095119442.125,
+            "cumNetInflow": 17587389970.235
+        },
+        {
+            "date": "2024-07-25",
+            "totalNetInflow": 31157072.75999999,
+            "totalValueTraded": 1513643718.5,
+            "totalNetAssets": 59142412629.62,
+            "cumNetInflow": 17535732743.71
+        },
+        {
+            "date": "2024-07-24",
+            "totalNetInflow": 44509433.155,
+            "totalValueTraded": 1498741354.0,
+            "totalNetAssets": 60109090637.64,
+            "cumNetInflow": 17504575670.95
+        },
+        {
+            "date": "2024-07-23",
+            "totalNetInflow": -77970431.47000001,
+            "totalValueTraded": 2341763461.45,
+            "totalNetAssets": 59970112225.475,
+            "cumNetInflow": 17460066237.795
+        },
+        {
+            "date": "2024-07-22",
+            "totalNetInflow": 485881468.38000005,
+            "totalValueTraded": 1616666359.91,
+            "totalNetAssets": 62115289231.46,
+            "cumNetInflow": 17538036669.265
+        },
+        {
+            "date": "2024-07-19",
+            "totalNetInflow": 427206550.49,
+            "totalValueTraded": 3165055396.33,
+            "totalNetAssets": 60926902952.185,
+            "cumNetInflow": 17052155200.885
+        },
+        {
+            "date": "2024-07-18",
+            "totalNetInflow": 37108115.11,
+            "totalValueTraded": 1406780231.53,
+            "totalNetAssets": 57196394670.325005,
+            "cumNetInflow": 16624966668.275377
+        },
+        {
+            "date": "2024-07-17",
+            "totalNetInflow": 53347487.78000001,
+            "totalValueTraded": 1788777792.47,
+            "totalNetAssets": 58148425064.520004,
+            "cumNetInflow": 16587858523.185606
+        },
+        {
+            "date": "2024-07-16",
+            "totalNetInflow": 422671326.24,
+            "totalValueTraded": 1757283246.79,
+            "totalNetAssets": 58461878117.89,
+            "cumNetInflow": 16534510632.14976
+        },
+        {
+            "date": "2024-07-15",
+            "totalNetInflow": 301043702.77,
+            "totalValueTraded": 2262974128.3,
+            "totalNetAssets": 56718085043.685,
+            "cumNetInflow": 16111839305.90976
+        },
+        {
+            "date": "2024-07-12",
+            "totalNetInflow": 310206365.61,
+            "totalValueTraded": 1147858841.45,
+            "totalNetAssets": 51338300877.57,
+            "cumNetInflow": 15810794834.091652
+        },
+        {
+            "date": "2024-07-11",
+            "totalNetInflow": 78934342.925,
+            "totalValueTraded": 1305512847.24,
+            "totalNetAssets": 50748510344.695,
+            "cumNetInflow": 15500588446.094152
+        },
+        {
+            "date": "2024-07-10",
+            "totalNetInflow": 147370941.12,
+            "totalValueTraded": 1245120374.15,
+            "totalNetAssets": 50620024316.465,
+            "cumNetInflow": 15421653978.442753
+        },
+        {
+            "date": "2024-07-09",
+            "totalNetInflow": 216332793.41,
+            "totalValueTraded": 1188067414.07,
+            "totalNetAssets": 50793484410.715,
+            "cumNetInflow": 15274282989.346853
+        },
+        {
+            "date": "2024-07-08",
+            "totalNetInflow": 294904191.45,
+            "totalValueTraded": 1977004448.5,
+            "totalNetAssets": 49319806354.424995,
+            "cumNetInflow": 15057950056.011715
+        },
+        {
+            "date": "2024-07-05",
+            "totalNetInflow": 143096940.77,
+            "totalValueTraded": 2806149359.24,
+            "totalNetAssets": 49146397170.685005,
+            "cumNetInflow": 14763045748.615139
+        },
+        {
+            "date": "2024-07-03",
+            "totalNetInflow": -20449518.5,
+            "totalValueTraded": 807867433.49,
+            "totalNetAssets": 51871976773.97,
+            "cumNetInflow": 14619948393.069786
+        },
+        {
+            "date": "2024-07-02",
+            "totalNetInflow": -13616650.98,
+            "totalValueTraded": 995833557.4,
+            "totalNetAssets": 53727077014.935,
+            "cumNetInflow": 14640397911.569786
+        },
+        {
+            "date": "2024-07-01",
+            "totalNetInflow": 129452137.525,
+            "totalValueTraded": 1363284885.8,
+            "totalNetAssets": 54916449875.43,
+            "cumNetInflow": 14654014562.549786
+        },
+        {
+            "date": "2024-06-28",
+            "totalNetInflow": 73045384.485,
+            "totalValueTraded": 1314488240.03,
+            "totalNetAssets": 52122771391.815,
+            "cumNetInflow": 14524562377.027386
+        },
+        {
+            "date": "2024-06-27",
+            "totalNetInflow": 11799651.295000002,
+            "totalValueTraded": 919952509.2,
+            "totalNetAssets": 53129061639.48,
+            "cumNetInflow": 14451516982.907679
+        },
+        {
+            "date": "2024-06-26",
+            "totalNetInflow": 21518695.669999998,
+            "totalValueTraded": 925757830.2,
+            "totalNetAssets": 52612515925.645,
+            "cumNetInflow": 14439717283.610779
+        },
+        {
+            "date": "2024-06-25",
+            "totalNetInflow": 31013148.3,
+            "totalValueTraded": 2208214673.2,
+            "totalNetAssets": 53564598786.51,
+            "cumNetInflow": 14418199087.15828
+        },
+        {
+            "date": "2024-06-24",
+            "totalNetInflow": -174445134.555,
+            "totalValueTraded": 2952516932.2,
+            "totalNetAssets": 51530148391.865,
+            "cumNetInflow": 14387185927.657478
+        },
+        {
+            "date": "2024-06-21",
+            "totalNetInflow": -105956766.15,
+            "totalValueTraded": 1311827448.07,
+            "totalNetAssets": 55546627891.314995,
+            "cumNetInflow": 14561631077.205318
+        },
+        {
+            "date": "2024-06-20",
+            "totalNetInflow": -139879817.89,
+            "totalValueTraded": 1161705226.75,
+            "totalNetAssets": 56410988617.47,
+            "cumNetInflow": 14667587837.346869
+        },
+        {
+            "date": "2024-06-18",
+            "totalNetInflow": -152422118.89999998,
+            "totalValueTraded": 1698228119.9,
+            "totalNetAssets": 56056249678.345,
+            "cumNetInflow": 14807467655.23687
+        },
+        {
+            "date": "2024-06-17",
+            "totalNetInflow": -145833193.75,
+            "totalValueTraded": 1237202110.68,
+            "totalNetAssets": 58243646465.88,
+            "cumNetInflow": 14959891569.872581
+        },
+        {
+            "date": "2024-06-14",
+            "totalNetInflow": -190077817.91999778,
+            "totalValueTraded": 1763869622.0,
+            "totalNetAssets": 57268876715.55,
+            "cumNetInflow": 15105724765.57795
+        },
+        {
+            "date": "2024-06-13",
+            "totalNetInflow": -226206414.02500454,
+            "totalValueTraded": 1792433658.26,
+            "totalNetAssets": 58534520529.97,
+            "cumNetInflow": 15295802583.497948
+        },
+        {
+            "date": "2024-06-12",
+            "totalNetInflow": 100895629.91500464,
+            "totalValueTraded": 2162505121.0,
+            "totalNetAssets": 60008659028.265,
+            "cumNetInflow": 15522009015.913609
+        },
+        {
+            "date": "2024-06-11",
+            "totalNetInflow": -200305041.42000002,
+            "totalValueTraded": 1973564886.34,
+            "totalNetAssets": 59226634395.89,
+            "cumNetInflow": 15421113373.190905
+        },
+        {
+            "date": "2024-06-10",
+            "totalNetInflow": -64931796.380002365,
+            "totalValueTraded": 1108955537.67,
+            "totalNetAssets": 61446768279.085,
+            "cumNetInflow": 15621418414.610905
+        },
+        {
+            "date": "2024-06-07",
+            "totalNetInflow": 130989266.47,
+            "totalValueTraded": 2544017182.0,
+            "totalNetAssets": 61104305316.0,
+            "cumNetInflow": 15686350210.990906
+        },
+        {
+            "date": "2024-06-06",
+            "totalNetInflow": 217780364.2850024,
+            "totalValueTraded": 1446154994.9,
+            "totalNetAssets": 62335035882.385,
+            "cumNetInflow": 15555360949.518827
+        },
+        {
+            "date": "2024-06-05",
+            "totalNetInflow": 488237909.8199952,
+            "totalValueTraded": 2090514241.6,
+            "totalNetAssets": 62555907539.935,
+            "cumNetInflow": 15337580585.233826
+        },
+        {
+            "date": "2024-06-04",
+            "totalNetInflow": 886754990.2100024,
+            "totalValueTraded": 2783631136.96,
+            "totalNetAssets": 61459760566.085,
+            "cumNetInflow": 14849342702.542906
+        },
+        {
+            "date": "2024-06-03",
+            "totalNetInflow": 105123413.975,
+            "totalValueTraded": 1784185741.5,
+            "totalNetAssets": 59420297698.875,
+            "cumNetInflow": 13962587250.917109
+        },
+        {
+            "date": "2024-05-31",
+            "totalNetInflow": 48737953.35000002,
+            "totalValueTraded": 1730175572.9,
+            "totalNetAssets": 57940310688.955,
+            "cumNetInflow": 13857463836.942108
+        },
+        {
+            "date": "2024-05-30",
+            "totalNetInflow": 48706049.88,
+            "totalValueTraded": 1966128710.0,
+            "totalNetAssets": 59025653558.0,
+            "cumNetInflow": 13808725883.592108
+        },
+        {
+            "date": "2024-05-29",
+            "totalNetInflow": 28322395.54999973,
+            "totalValueTraded": 1149902060.0,
+            "totalNetAssets": 57682455106.06,
+            "cumNetInflow": 13760019440.738956
+        },
+        {
+            "date": "2024-05-28",
+            "totalNetInflow": 45143180.84000028,
+            "totalValueTraded": 1604585506.4,
+            "totalNetAssets": 58468157870.435,
+            "cumNetInflow": 13731696786.703743
+        },
+        {
+            "date": "2024-05-24",
+            "totalNetInflow": 251940800.23,
+            "totalValueTraded": 1629406968.5,
+            "totalNetAssets": 59068357857.845,
+            "cumNetInflow": 13686553605.863743
+        },
+        {
+            "date": "2024-05-23",
+            "totalNetInflow": 107908117.905,
+            "totalValueTraded": 1738865417.3,
+            "totalNetAssets": 57291630869.86,
+            "cumNetInflow": 13434612831.26841
+        },
+        {
+            "date": "2024-05-22",
+            "totalNetInflow": 153911702.815,
+            "totalValueTraded": 1608490512.72,
+            "totalNetAssets": 59196365332.71,
+            "cumNetInflow": 13326704650.559032
+        },
+        {
+            "date": "2024-05-21",
+            "totalNetInflow": 305719243.17,
+            "totalValueTraded": 2259913616.2,
+            "totalNetAssets": 58910181269.54,
+            "cumNetInflow": 13172792947.744032
+        },
+        {
+            "date": "2024-05-20",
+            "totalNetInflow": 241123818.19499972,
+            "totalValueTraded": 2460701182.6,
+            "totalNetAssets": 58798443187.565,
+            "cumNetInflow": 12867073604.773727
+        },
+        {
+            "date": "2024-05-17",
+            "totalNetInflow": 221535914.22999975,
+            "totalValueTraded": 1777451337.8,
+            "totalNetAssets": 56262968939.740005,
+            "cumNetInflow": 12625949724.332642
+        },
+        {
+            "date": "2024-05-16",
+            "totalNetInflow": 257335044.65000027,
+            "totalValueTraded": 1496574665.26,
+            "totalNetAssets": 54628341386.88,
+            "cumNetInflow": 12404414010.370321
+        },
+        {
+            "date": "2024-05-15",
+            "totalNetInflow": 302966877.78499997,
+            "totalValueTraded": 3005966263.24,
+            "totalNetAssets": 54994833706.57,
+            "cumNetInflow": 12147078965.720322
+        },
+        {
+            "date": "2024-05-14",
+            "totalNetInflow": 100508894.71,
+            "totalValueTraded": 977778521.66,
+            "totalNetAssets": 50986529656.135,
+            "cumNetInflow": 11844112020.082056
+        },
+        {
+            "date": "2024-05-13",
+            "totalNetInflow": 65960219.65,
+            "totalValueTraded": 1212852599.3,
+            "totalNetAssets": 52143860036.505,
+            "cumNetInflow": 11743605915.228495
+        },
+        {
+            "date": "2024-05-10",
+            "totalNetInflow": -84658131.48,
+            "totalValueTraded": 2052023844.9,
+            "totalNetAssets": 50100405155.885,
+            "cumNetInflow": 11677645795.571106
+        },
+        {
+            "date": "2024-05-09",
+            "totalNetInflow": -11285273.28,
+            "totalValueTraded": 1348576651.23,
+            "totalNetAssets": 51611096730.085,
+            "cumNetInflow": 11762304488.459415
+        },
+        {
+            "date": "2024-05-08",
+            "totalNetInflow": 11540874.32,
+            "totalValueTraded": 999849054.67,
+            "totalNetAssets": 51504447051.68,
+            "cumNetInflow": 11773590304.92344
+        },
+        {
+            "date": "2024-05-07",
+            "totalNetInflow": -15643918.385,
+            "totalValueTraded": 1195270137.0,
+            "totalNetAssets": 52209984884.0,
+            "cumNetInflow": 11762049867.487576
+        },
+        {
+            "date": "2024-05-06",
+            "totalNetInflow": 217055840.0,
+            "totalValueTraded": 1825230478.0,
+            "totalNetAssets": 52234259641.0,
+            "cumNetInflow": 11777692861.473505
+        },
+        {
+            "date": "2024-05-03",
+            "totalNetInflow": 378235903.95,
+            "totalValueTraded": 1884638673.0,
+            "totalNetAssets": 51021277494.0,
+            "cumNetInflow": 11560636385.960337
+        },
+        {
+            "date": "2024-05-02",
+            "totalNetInflow": -34355756.65,
+            "totalValueTraded": 1720042014.0,
+            "totalNetAssets": 48477216450.0,
+            "cumNetInflow": 11182398746.205276
+        },
+        {
+            "date": "2024-05-01",
+            "totalNetInflow": -563773921.3,
+            "totalValueTraded": 3079279790.0,
+            "totalNetAssets": 47079088742.0,
+            "cumNetInflow": 11216736370.295
+        },
+        {
+            "date": "2024-04-30",
+            "totalNetInflow": -161586898.73,
+            "totalValueTraded": 2931392512.0,
+            "totalNetAssets": 49413445593.0,
+            "cumNetInflow": 11780510291.595
+        },
+        {
+            "date": "2024-04-29",
+            "totalNetInflow": -51531610.75,
+            "totalValueTraded": 1409175429.0,
+            "totalNetAssets": 52208707819.0,
+            "cumNetInflow": 11942097190.325
+        },
+        {
+            "date": "2024-04-26",
+            "totalNetInflow": -83614672.465,
+            "totalValueTraded": 1581555167.0,
+            "totalNetAssets": 53155945154.0,
+            "cumNetInflow": 11993628801.075
+        },
+        {
+            "date": "2024-04-25",
+            "totalNetInflow": -217584256.32,
+            "totalValueTraded": 1925410627.0,
+            "totalNetAssets": 53893856401.0,
+            "cumNetInflow": 12077243473.54
+        },
+        {
+            "date": "2024-04-24",
+            "totalNetInflow": -120641535.975,
+            "totalValueTraded": 2602246132.0,
+            "totalNetAssets": 53650355620.0,
+            "cumNetInflow": 12294827729.86
+        },
+        {
+            "date": "2024-04-23",
+            "totalNetInflow": 31635400.19,
+            "totalValueTraded": 1284767127.0,
+            "totalNetAssets": 55820150230.0,
+            "cumNetInflow": 12415469265.835
+        },
+        {
+            "date": "2024-04-22",
+            "totalNetInflow": 62089910.62,
+            "totalValueTraded": 2178841547.0,
+            "totalNetAssets": 55719245306.0,
+            "cumNetInflow": 12383833865.645
+        },
+        {
+            "date": "2024-04-19",
+            "totalNetInflow": 59557999.03,
+            "totalValueTraded": 2373409705.0,
+            "totalNetAssets": 53832213541.0,
+            "cumNetInflow": 12321743955.025
+        },
+        {
+            "date": "2024-04-18",
+            "totalNetInflow": -4387646.4,
+            "totalValueTraded": 2579732816.0,
+            "totalNetAssets": 53063424315.0,
+            "cumNetInflow": 12262185955.995
+        },
+        {
+            "date": "2024-04-17",
+            "totalNetInflow": -165095074.7,
+            "totalValueTraded": 3496963496.0,
+            "totalNetAssets": 51083467141.0,
+            "cumNetInflow": 12266573602.395
+        },
+        {
+            "date": "2024-04-16",
+            "totalNetInflow": -58033068.0,
+            "totalValueTraded": 2448649559.0,
+            "totalNetAssets": 52727847426.0,
+            "cumNetInflow": 12431668677.095
+        },
+        {
+            "date": "2024-04-15",
+            "totalNetInflow": -36670014.0,
+            "totalValueTraded": 3396431819.0,
+            "totalNetAssets": 53144655603.0,
+            "cumNetInflow": 12489701745.095
+        },
+        {
+            "date": "2024-04-12",
+            "totalNetInflow": -55066297.0,
+            "totalValueTraded": 4706120449.0,
+            "totalNetAssets": 56216535367.0,
+            "cumNetInflow": 12526371759.095
+        },
+        {
+            "date": "2024-04-11",
+            "totalNetInflow": 91269283.0,
+            "totalValueTraded": 2498627928.0,
+            "totalNetAssets": 59225065270.0,
+            "cumNetInflow": 12581438056.095
+        },
+        {
+            "date": "2024-04-10",
+            "totalNetInflow": 123679366.0,
+            "totalValueTraded": 3009079105.0,
+            "totalNetAssets": 58637335559.0,
+            "cumNetInflow": 12490168773.095
+        },
+        {
+            "date": "2024-04-09",
+            "totalNetInflow": -19479831.0,
+            "totalValueTraded": 2911350034.0,
+            "totalNetAssets": 57802699826.0,
+            "cumNetInflow": 12366489407.095
+        },
+        {
+            "date": "2024-04-08",
+            "totalNetInflow": -223847860.0,
+            "totalValueTraded": 3153593281.0,
+            "totalNetAssets": 60189691540.0,
+            "cumNetInflow": 12385969238.095
+        },
+        {
+            "date": "2024-04-05",
+            "totalNetInflow": 203012522.0,
+            "totalValueTraded": 2386547935.0,
+            "totalNetAssets": 56962351244.0,
+            "cumNetInflow": 12609817098.095
+        },
+        {
+            "date": "2024-04-04",
+            "totalNetInflow": 213524171.0,
+            "totalValueTraded": 3446710840.0,
+            "totalNetAssets": 57560618150.0,
+            "cumNetInflow": 12406804576.095
+        },
+        {
+            "date": "2024-04-03",
+            "totalNetInflow": 113165645.0,
+            "totalValueTraded": 2326813232.0,
+            "totalNetAssets": 55078235012.0,
+            "cumNetInflow": 12193280405.095
+        },
+        {
+            "date": "2024-04-02",
+            "totalNetInflow": 39465835.0,
+            "totalValueTraded": 2846403730.0,
+            "totalNetAssets": 55114826255.0,
+            "cumNetInflow": 12080114760.095
+        },
+        {
+            "date": "2024-04-01",
+            "totalNetInflow": -85837835.0,
+            "totalValueTraded": 3015573441.0,
+            "totalNetAssets": 57939317488.0,
+            "cumNetInflow": 12040648925.095
+        },
+        {
+            "date": "2024-03-28",
+            "totalNetInflow": 182996923.0,
+            "totalValueTraded": 3701193310.0,
+            "totalNetAssets": 59120017129.0,
+            "cumNetInflow": 12126486760.095
+        },
+        {
+            "date": "2024-03-27",
+            "totalNetInflow": 243408238.0,
+            "totalValueTraded": 3875935180.0,
+            "totalNetAssets": 57138993772.0,
+            "cumNetInflow": 11943489837.095
+        },
+        {
+            "date": "2024-03-26",
+            "totalNetInflow": 417982504.0,
+            "totalValueTraded": 3608352310.0,
+            "totalNetAssets": 57719065446.0,
+            "cumNetInflow": 11700081599.095
+        }
+    ],
+    "tid": ""
+}

@@ -1,0 +1,216 @@
+{
+    "items": "3",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Stablecoin issuer Circle soars 173% in NYSE debut after pricing IPO above expected range",
+            "url": "https://www.cnbc.com/2025/06/05/stablecoin-issuer-circle-soars-in-nyse-debut-after-pricing-ipo-above-expected-range.html",
+            "time_published": "20250605T170025",
+            "authors": [],
+            "summary": "Circle joins Coinbase, Mara Holdings and Riot Platforms as one of the few pure-play crypto companies to list in the U.S.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.998626"
+                }
+            ],
+            "overall_sentiment_score": 0.199038,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIOT",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.039145",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "-0.013206",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "0.014187",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.254307",
+                    "ticker_sentiment_score": "0.055208",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.192183",
+                    "ticker_sentiment_score": "0.110852",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.064623",
+                    "ticker_sentiment_score": "-0.013206",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin Has Hit an All-Time High of $112,000. 3 Reasons the Leading Cryptocurrency Is Surging.",
+            "url": "https://www.fool.com/investing/2025/06/05/bitcoin-has-hit-an-all-time-high-of-111000-3-reaso/",
+            "time_published": "20250605T091500",
+            "authors": [
+                "Lyle Daly"
+            ],
+            "summary": "Last month, Bitcoin ( CRYPTO: BTC ) reached a new all-time high of $111,970. Even after a small pullback, the leading cryptocurrency is still up 13% this year, while the S&P 500 has gained just 1.6%. Going back even further, Bitcoin has returned an impressive 990% during the past five years.When ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F820370%2Finvestor-smiling-phone-at-home-1200x800-5b2df79.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.928769"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.19282,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.163539",
+                    "ticker_sentiment_score": "0.191831",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.269181",
+                    "ticker_sentiment_score": "-0.050984",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.901338",
+                    "ticker_sentiment_score": "0.426265",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:UNI",
+                    "relevance_score": "0.054857",
+                    "ticker_sentiment_score": "0.084973",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk, Who Called Trump's 'One Big Beautiful Bill' A 'Disgusting Abomination,' Responds To Coinbase CEO's Warning That Bitcoin Could Replace Dollar If Congress Isn't Held Accountable",
+            "url": "https://www.benzinga.com/crypto/cryptocurrency/25/06/45784755/elon-musk-who-called-trumps-one-big-beautiful-bill-a-disgusting-abomination-responds-to-coi",
+            "time_published": "20250605T013919",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Tesla and SpaceX CEO Elon Musk signaled agreement with Coinbase CEO Brian Armstrong's warning Wednesday that government overspending could lead to Bitcoin BTC/USD replacing the dollar as the reserve currency.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/06/04/Washington--March-9--2025-Elon-Musk-Reve.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.110411,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "0.098373",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLSQF",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "0.292458",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "0.098373",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.234684",
+                    "ticker_sentiment_score": "0.154344",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.544495",
+                    "ticker_sentiment_score": "0.30491",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}

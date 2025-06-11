@@ -1,0 +1,70 @@
+{
+    "items": "1",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Bitcoin vs. Gold: The Best Buy Right Now, According to a Wall Street Analyst",
+            "url": "https://www.fool.com/investing/2025/05/30/bitcoin-gold-best-buy-now-wall-street-analyst/",
+            "time_published": "20250530T071200",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "The investment theses for gold and Bitcoin ( CRYPTO: BTC ) are similar. Both are considered safe-haven assets, at least by some investors, because they exist in finite quantifies. That means gold and Bitcoin become more valuable as demand increases, which theoretically makes them good hedges ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F819914%2Finvestor-73.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.993856"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.227737,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.05257",
+                    "ticker_sentiment_score": "0.133597",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.05257",
+                    "ticker_sentiment_score": "0.139987",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.208017",
+                    "ticker_sentiment_score": "0.100431",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.870603",
+                    "ticker_sentiment_score": "0.423338",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        }
+    ]
+}

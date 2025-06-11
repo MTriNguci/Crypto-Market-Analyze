@@ -1,0 +1,121 @@
+{
+    "items": "2",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Bitcoin Options Open Interest Spikes to Record High as Traders Target $116K",
+            "url": "https://decrypt.co/321685/bitcoin-options-open-interest-spikes-to-record-high-traders-target-116k",
+            "time_published": "20250522T202922",
+            "authors": [
+                "Andr\u00e9 Beganski"
+            ],
+            "summary": "An influx of participation in the Bitcoin options market rivaled levels seen in late November.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-01-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.274568,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "0.246961",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "0.257917",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.713878",
+                    "ticker_sentiment_score": "0.380938",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin hits record high as US-China trade tensions ease",
+            "url": "https://www.scmp.com/tech/blockchain/article/3311297/bitcoin-hits-record-high-us-china-trade-tensions-ease-crypto-sentiment-improves",
+            "time_published": "20250522T015103",
+            "authors": [
+                "Reuters"
+            ],
+            "summary": "'A target of US$150,000 in 2025 is still very much on the cards,' one analyst says.",
+            "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/05/22/7d01edc7-e36e-41c4-bf87-1d6ee74ec5f6_ac707f82.jpg",
+            "source": "South China Morning Post",
+            "category_within_source": "Business",
+            "source_domain": "www.scmp.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.016882,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MCO",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "-0.156708",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "0.017475",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "-0.157168",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "0.151888",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "0.170763",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}

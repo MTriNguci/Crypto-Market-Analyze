@@ -1,0 +1,68 @@
+{
+    "items": "1",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "US Debt Crisis Could Make Bitcoin the World's Reserve Currency: Coinbase CEO",
+            "url": "https://decrypt.co/323616/us-debt-crisis-bitcoin-reserve-currency-coinbase-ceo",
+            "time_published": "20250604T052250",
+            "authors": [
+                "Vismaya V"
+            ],
+            "summary": "Armstrong joins critics warning that U.S. fiscal policy could accelerate global de-dollarization and boost Bitcoin's appeal.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.056727,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.085324",
+                    "ticker_sentiment_score": "-0.150132",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.085324",
+                    "ticker_sentiment_score": "-0.279846",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.252114",
+                    "ticker_sentiment_score": "-0.088711",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.665097",
+                    "ticker_sentiment_score": "0.022816",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:KMD",
+                    "relevance_score": "0.085324",
+                    "ticker_sentiment_score": "0.060461",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}

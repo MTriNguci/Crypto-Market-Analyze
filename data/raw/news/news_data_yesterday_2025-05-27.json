@@ -1,0 +1,58 @@
+{
+    "items": "1",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Stablecoin issuer Circle kicks off its IPO, targeting a nearly $6 billion valuation",
+            "url": "https://www.cnbc.com/2025/05/27/stablecoin-issuer-circle-kicks-off-its-ipo-targeting-a-nearly-6-billion-valuation.html",
+            "time_published": "20250527T162923",
+            "authors": [],
+            "summary": "Circle, the issuer of the popular USDC stablecoin, has launched its initial public offering, looking to raise about $624 million at a $5.65 billion valuation.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Investing",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.972756"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.238461,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.322023",
+                    "ticker_sentiment_score": "0.304372",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.164468",
+                    "ticker_sentiment_score": "0.066193",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.082677",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}
