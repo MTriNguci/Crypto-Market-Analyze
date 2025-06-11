@@ -6,7 +6,7 @@ ETL/
 ├── scripts/
 │   └── airflow/
 │       ├── schedule.py
-│       ├── extract/
+│   ├── extract/
 │       │   ├── __pycache__/
 │       │   ├── __init__.py
 │       │   ├── cmc.ipynb
@@ -15,12 +15,12 @@ ETL/
 │       │   ├── news.py
 │       │   ├── sosovalue.ipynb
 │       │   └── sosovalue.py
-│       ├── load/
+│   ├── load/
 │       │   ├── __pycache__/
 │       │   ├── __init__.py
 │       │   ├── load_json_historical_to_hdfs.py
 │       │   └── load_json_to_hdfs.py
-│       └── transform/
+│   └── transform/
 │           ├── __pycache__/
 │           ├── __init__.py
 │           ├── transform_historical.py
